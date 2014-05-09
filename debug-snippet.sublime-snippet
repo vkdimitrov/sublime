@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[
+Debug::output(${1:\$var});
+]]></content>
+	<tabTrigger>d</tabTrigger>
+</snippet>

@@ -1,0 +1,16 @@
+[05/09/2014 10:13:06AM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[05/09/2014 10:13:06AM] INFO - Failed to open C:\Users\vlad_ko\AppData\Roaming\Sublime Text 3\Packages\User\Xdebug.expressions.
+[05/09/2014 10:13:06AM] DEBUG - [Errno 2] No such file or directory: 'C:\\Users\\vlad_ko\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\Xdebug.expressions'
+[05/09/2014 10:13:06AM] INFO - Failed to parse C:\Users\vlad_ko\AppData\Roaming\Sublime Text 3\Packages\User\Xdebug.expressions.
+[05/09/2014 10:13:06AM] DEBUG - local variable 'data_file' referenced before assignment
+[05/09/2014 10:33:00AM] WARNING - Could not import subprocess32 module, falling back to subprocess module
+[05/09/2014 10:33:06AM] INFO - scan_purelang: path: '\\\\kapitan.lan\\vkdimitrov\\public_html\\abak_core\\application\\classes\\Controller\\Admin\\Nomenclatures\\Main.php' lang: PHP
+[05/09/2014 10:33:06AM] INFO - scan_multilang: path: '\\\\kapitan.lan\\vkdimitrov\\public_html\\abak_core\\application\\classes\\Controller\\Admin\\Nomenclatures\\Main.php' lang: PHP
+[05/09/2014 10:33:06AM] INFO - multiple part variable namelist (ignoring): ['template', 'content'], line: 14 in file: '//kapitan.lan/vkdimitrov/public_html/abak_core/application/classes/Controller/Admin/Nomenclatures/Main.php'
+[05/09/2014 10:33:06AM] INFO - multiple part variable namelist (ignoring): ['entity', 'assign_set()'], line: 23 in file: '//kapitan.lan/vkdimitrov/public_html/abak_core/application/classes/Controller/Admin/Nomenclatures/Main.php'
+[05/09/2014 10:33:06AM] INFO - multiple part variable namelist (ignoring): ['entity', 'attr()'], line: 30 in file: '//kapitan.lan/vkdimitrov/public_html/abak_core/application/classes/Controller/Admin/Nomenclatures/Main.php'
+[05/09/2014 10:33:06AM] INFO - multiple part variable namelist (ignoring): ['entity', 'save()'], line: 32 in file: '//kapitan.lan/vkdimitrov/public_html/abak_core/application/classes/Controller/Admin/Nomenclatures/Main.php'
+[05/09/2014 10:33:06AM] INFO - multiple part variable namelist (ignoring): ['template', 'content'], line: 40 in file: '//kapitan.lan/vkdimitrov/public_html/abak_core/application/classes/Controller/Admin/Nomenclatures/Main.php'
+[05/09/2014 10:33:06AM] INFO - multiple part variable namelist (ignoring): ['entity', 'attr()'], line: 57 in file: '//kapitan.lan/vkdimitrov/public_html/abak_core/application/classes/Controller/Admin/Nomenclatures/Main.php'
+[05/09/2014 10:33:06AM] INFO - multiple part variable namelist (ignoring): ['entity', 'save()'], line: 59 in file: '//kapitan.lan/vkdimitrov/public_html/abak_core/application/classes/Controller/Admin/Nomenclatures/Main.php'
+[05/09/2014 10:33:06AM] INFO - multiple part variable namelist (ignoring): ['template', 'content'], line: 67 in file: '//kapitan.lan/vkdimitrov/public_html/abak_core/application/classes/Controller/Admin/Nomenclatures/Main.php'
